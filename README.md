@@ -1,4 +1,6 @@
 # GiantTextFileGenerator
+[![.NET - Build](https://github.com/Techgamr/GiantTextFileGenerator/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Techgamr/GiantTextFileGenerator/actions/workflows/dotnet.yml)
+[![CodeQL](https://github.com/Techgamr/GiantTextFileGenerator/actions/workflows/codeql.yml/badge.svg)](https://github.com/Techgamr/GiantTextFileGenerator/actions/workflows/codeql.yml)
 
 lol
 
