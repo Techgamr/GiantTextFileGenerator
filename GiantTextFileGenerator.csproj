@@ -6,6 +6,7 @@
         <Configurations>Debug;Release</Configurations>
         <Platforms>x64</Platforms>
         <Nullable>enable</Nullable>
+        <ApplicationIcon>program.ico</ApplicationIcon>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
